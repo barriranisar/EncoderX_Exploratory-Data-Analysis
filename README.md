@@ -1,35 +1,10 @@
 
----
-
-
 # 📊 Exploratory Data Analysis (EDA) - Sample Superstore Dataset
 
 ---
 
 ## 📌 Project Overview
 This project performs an in-depth **Exploratory Data Analysis (EDA)** on retail transaction data from a US-based Superstore. The goal is to uncover business trends, evaluate profit margins across product categories and sub-categories, analyze the financial impact of promotional discounts, and deliver data-backed recommendations to optimize profitability.
-
----
-
-## 📁 Repository Structure
-
-```text
-├── data/
-│   ├── SampleSuperstoreDataset.csv          # Raw Superstore Dataset (9,994 records)
-│   └── Cleaned_SampleSuperstoreDataset.csv  # Cleaned Dataset (9,977 records)
-├── notebooks/
-│   └── EDA_Superstore.ipynb                 # Complete Jupyter Notebook with code & outputs
-├── visualizations/
-│   ├── 01_sales_profit_distribution.png     # Sales & Profit distribution histograms
-│   ├── 02_subcategory_sales_profit.png      # Sales vs. Profit across Sub-Categories
-│   ├── 03_scatter_sales_profit_discount.png # Sales vs. Profit scatter plot by discount
-│   ├── 04_correlation_heatmap.png           # Feature correlation matrix heatmap
-│   └── 05_discount_vs_profit_trend.png      # Discount rate vs. Average profit trend
-├── report/
-│   └── Superstore_EDA_Report.pdf            # Professional Executive Summary Report
-└── README.md                                # Project documentation & findings
-
-```
 
 ---
 
@@ -72,14 +47,6 @@ This project performs an in-depth **Exploratory Data Analysis (EDA)** on retail 
 * **Data Manipulation:** Pandas, NumPy
 * **Visualization Libraries:** Matplotlib, Seaborn
 * **Environment:** Jupyter Notebook / VS Code
-
----
-
-## 🔗 Submission Links
-
-* **GitHub Repository:** 
-* **LinkedIn Post:** 
-* **Demo Video Walkthrough:** 
 
 ---
 
