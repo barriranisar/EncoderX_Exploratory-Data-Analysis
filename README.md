@@ -4,9 +4,6 @@
 
 # 📊 Exploratory Data Analysis (EDA) - Sample Superstore Dataset
 
-> **EncoderX Remote Internship (Batch 02) — Track: Data Science**  
-> **Task 01:** Exploratory Data Analysis & Business Intelligence  
-
 ---
 
 ## 📌 Project Overview
